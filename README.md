@@ -1,4 +1,5 @@
 # 🤖 Desk Buddy — ESP8266 OLED Desktop Companion
+![preview](image_source)
 
 A cute animated desktop buddy built on ESP8266 with a 128×64 OLED display. Features animated expressive eyes, live clock via NTP, real-time weather (no API key needed), room temperature/humidity sensor, and a single button to cycle through all screens.
 
