@@ -43,6 +43,7 @@ A cute animated desktop buddy built on ESP8266 with a 128×64 OLED display. Feat
 
 > OLED VCC → 3.3V, OLED GND → GND  
 > DHT VCC → 3.3V, DHT GND → GND (add 10kΩ pull-up on DATA pin for DHT22)
+![circuit](circuit_image(9).png)
 
 ---
 
